@@ -1,0 +1,45 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"743ab027-2caa-4b9c-a955-0ec1fcbeddb5\" name=\"Default Changelist\" comment=\"mbhmjhg\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1xHO99doKeiaCXBOTvXyihYcxjj\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"ts.external.directory.path\" value=\"$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n      <recent name=\"$PROJECT_DIR$/node_modules\" />\n      <recent name=\"$PROJECT_DIR$/src/assets\" />\n      <recent name=\"$PROJECT_DIR$/src/assets/fonts\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"743ab027-2caa-4b9c-a955-0ec1fcbeddb5\" name=\"Default Changelist\" comment=\"\" />\n      <created>1630008392487</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1630008392487</updated>\n      <workItem from=\"1630008395008\" duration=\"3658000\" />\n      <workItem from=\"1630012071522\" duration=\"396000\" />\n      <workItem from=\"1630012522157\" duration=\"2489000\" />\n      <workItem from=\"1630039669579\" duration=\"5922000\" />\n      <workItem from=\"1630135402616\" duration=\"15000\" />\n      <workItem from=\"1646571422051\" duration=\"1901000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f140d84d3b883ae897b18f2ed12df05dc16c08ef)
++++ b/.idea/workspace.xml	(date 1646574426867)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="743ab027-2caa-4b9c-a955-0ec1fcbeddb5" name="Default Changelist" comment="mbhmjhg" />
++    <list default="true" id="743ab027-2caa-4b9c-a955-0ec1fcbeddb5" name="Default Changelist" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -52,11 +52,23 @@
+       <workItem from="1630012522157" duration="2489000" />
+       <workItem from="1630039669579" duration="5922000" />
+       <workItem from="1630135402616" duration="15000" />
+-      <workItem from="1646571422051" duration="1901000" />
++      <workItem from="1646571422051" duration="2211000" />
++    </task>
++    <task id="LOCAL-00001" summary="first">
++      <created>1646574259532</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1646574259532</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="first" />
++    <option name="LAST_COMMIT_MESSAGE" value="first" />
++  </component>
+ </project>
+\ No newline at end of file
