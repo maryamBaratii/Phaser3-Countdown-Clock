@@ -1,6 +1,6 @@
 # Phaser 3 Webpack Countdown Clock
 
-![alt text](https://github.com/maryamBaratii/Phaser-3-Countdown-Clock/blob/main/demo.gif?raw=true)
+![alt text](https://github.com/maryamBaratii/Phaser-3-Countdown-Clock/blob/main/demo.gif)
 
 A Phaser 3 Countdown Clock with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/).
 
