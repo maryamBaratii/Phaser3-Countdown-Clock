@@ -1,8 +1,7 @@
 # Phaser 3 Webpack Countdown Clock
 
-<div style="text-align: center">
- <img src="https://github.com/maryamBaratii/Phaser-3-Countdown-Clock/blob/main/demo.gif" height="30%" width="30%" >
-</div>
+<img src="https://github.com/maryamBaratii/Phaser-3-Countdown-Clock/blob/main/demo.gif" height="30%" width="30%" >
+
 A Phaser 3 Countdown Clock with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/).
 
 Easily add a countdown clock for your Phaser games.
